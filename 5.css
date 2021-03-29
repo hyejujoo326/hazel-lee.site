@@ -1,0 +1,9 @@
+body{
+  font-size: 22px;
+  font-family:monospace;
+  color: white;
+background-color: rgba(50, 115, 220, 0.3);
+background-image: url("cg.JPG");
+background-attachment: scroll;
+background-clip: content-box;
+}
